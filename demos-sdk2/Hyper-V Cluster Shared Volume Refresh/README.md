@@ -1,5 +1,4 @@
 **Hyper-V Cluster Shared Volume Refresh**
-<p align="center"></p>
 This folder contains example snapshot scripts to refresh another existing Cluster Shared Volume.<BR>
  
  
