@@ -2,9 +2,9 @@
 # Clone and copy-back Hyper-V Cluster Shared Volume (CSV) to originating Hyper-V cluster
 #
 # Scenario: 
-#    This script will clone a Hyper-V Cluster Shared Volume (CSV) and present it back to the originating Hyper-V
-#    cluster as a second CSV "copy."  This example scenario is useful if you have multiple VMs on a CSV but wish to 
-#    restore only one.
+#    This script will clone a Hyper-V Cluster Shared Volume (CSV), using a crash consistent snapshot, and present it back 
+#    to the originating Hyper-V cluster as a second CSV "copy."  This example scenario is useful if you have multiple VMs 
+#    on a CSV but wish to restore only one.
 #
 #
 # Prerequisities:

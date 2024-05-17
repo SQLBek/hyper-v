@@ -10,7 +10,7 @@
 <!-- /wp:separator -->
 
 **Scenario:**
-<BR>This script will clone a Hyper-V Cluster Shared Volume (CSV) and present it back to the originating Hyper-V cluster as a second CSV "copy."  This example scenario is useful if you have multiple VMs on a CSV but wish to restore only one.
+<BR>This script will clone a Hyper-V Cluster Shared Volume (CSV), using a crash consistent snapshot, and present it back to the originating Hyper-V cluster as a second CSV "copy."  This example scenario is useful if you have multiple VMs on a CSV but wish to restore only one.
 
 **Prerequisites:**
 1. An additional Windows server (referred to as a staging server).   This staging server does not have to be a Hyper-V host.
