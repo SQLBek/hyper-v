@@ -17,7 +17,7 @@ Welcome to the Hyper-V Pure Storage script repository. This repository contains 
 
 | Demo | Description |  |   |
 | ----------- | ----------- |  ----------- |  ----------- | 
-| **Cluster Shared Volume Refresh* | DEMO DESCRIPTION | [More Info](./demos-sdk2/Hyper-V%20Cluster%20Shared%20Volume%20Refresh/) | [Sample Code](./demos-sdk2/Hyper-V%20Cluster%20Shared%20Volume%20Refresh/Hyper-V%20Cluster%20Shared%20Volume%20Refresh.ps1) |
+| **Cluster Shared Volume Refresh* | This script will clone a Hyper-V Cluster Shared Volume (CSV) and present it back to the originating Hyper-V cluster as a second CSV "copy." | [More Info](./demos-sdk2/Hyper-V%20Cluster%20Shared%20Volume%20Refresh/) | [Sample Code](./demos-sdk2/Hyper-V%20Cluster%20Shared%20Volume%20Refresh/Hyper-V%20Cluster%20Shared%20Volume%20Refresh.ps1) |
 
 ---
 
